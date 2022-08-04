@@ -1,6 +1,8 @@
 # 42seoul
 <div align="center">
+ 
 [![hyeyukim's 42 stats](https://badge42.vercel.app/api/v2/cl6er3fm6004409ldo5uq1wtm/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
+ 
 </div>
 
 ## Project in 42seoul
