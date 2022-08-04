@@ -5,7 +5,7 @@
  
 </div>
 
-## Project in 42seoul
+## Projects in 42seoul
 
 <div align="center">
  
