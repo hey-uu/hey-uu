@@ -1,16 +1,12 @@
-### Hi there 👋
+# 42seoul
+<div align="center">
+[![hyeyukim's 42 stats](https://badge42.vercel.app/api/v2/cl6er3fm6004409ldo5uq1wtm/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
+</div>
 
-<!--
-**hey-uu/hey-uu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Project in 42seoul
+| Number | Project | Success / In process |
+|:----------:|:-------------------------:|:--------------------:|
+| 1 | libft | [![hyeyukim's 42 Libft Score](https://badge42.vercel.app/api/v2/cl6er3fm6004409ldo5uq1wtm/project/2645016)](https://github.com/JaeSeoKim/badge42) |
+| 2 | get_next_line | [![hyeyukim's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl6er3fm6004409ldo5uq1wtm/project/2693936)](https://github.com/JaeSeoKim/badge42) |
+| 3 | ft_printf |[![hyeyukim's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl6er3fm6004409ldo5uq1wtm/project/2701280)](https://github.com/JaeSeoKim/badge42) |
+| 4 | born2beroot | [![hyeyukim's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl6er3fm6004409ldo5uq1wtm/project/2698050)](https://github.com/JaeSeoKim/badge42) |
